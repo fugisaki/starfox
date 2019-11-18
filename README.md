@@ -1,2 +1,0 @@
-# starfox
-Created with CodeSandbox
